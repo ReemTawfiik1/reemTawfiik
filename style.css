@@ -1,0 +1,48 @@
+#header {
+
+background-color: black;
+color: white;
+height: 40px;
+width: 100%; 
+text-align:center;
+img-align:right;
+
+}
+
+a {
+color: black;
+}
+
+#content {
+background-color: black;
+}
+
+
+
+
+
+#section {
+background-color: green;
+color: white;
+width: 100%;
+height: 350px;
+text-align: center;
+}
+
+
+button {
+border-radius: 4px;
+height: 31px;
+button-align:center;
+}
+
+input {
+width: 55%;
+}
+
+
+
+
+
+
+
